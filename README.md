@@ -41,7 +41,6 @@ Aplicativo Android desenvolvido com **Kotlin** e **Firebase Authentication**, qu
 - 👩‍💻 **Desenvolvedora:** Ana Paula Santos de Freitas  
 - 🏫 **Instituição:** Instituto Federal do Triângulo Mineiro – Campus Patrocínio  
 - 🧪 **Disciplina:** Programação para Dispositivos Móveis  
-- 📅 **Avaliação:** Prova 01 (20 pontos)
 
 ---
 
